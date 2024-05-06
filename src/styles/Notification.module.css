@@ -1,0 +1,14 @@
+.box {
+  width: 100%;
+  max-width: 1200px;
+  margin: 250px auto;
+  padding: 0 15px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}

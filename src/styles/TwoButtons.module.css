@@ -1,0 +1,8 @@
+.boxButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxButtons a {
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.box {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.choose {
+  text-align: center;
+}
+
+.chooseBox {
+  margin-top: 50px;
+  width: 100%;
+  height: 100%;
+}
